@@ -1,4 +1,4 @@
-# Research Repository
+# Talks Repository
 This repository is a collection of talks, which the repository's owner presented in some of the most notorious conferences to help the audience to study and understand some cybersecurity related topics. The information contained in this repository is the result of hours of researching process, conducted by the repository's owner on his spare time, in the hope of contributing to the cybersecurity community. For a complete list of talks, please, refer to this [link](https://fnstenv.blogspot.com/p/lectures_12.html).
 
 ## Directories
