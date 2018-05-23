@@ -4,6 +4,7 @@ The [exported PDF](https://github.com/nbrito/talks/blob/master/2017/roadsec-sp/n
 
 For supplementary material, please, refer to:
 * [ddos](https://github.com/nbrito/research/tree/master/ddos)
+* [recorded](https://www.youtube.com/watch?v=pd3LySbhT1Q)
 
 # Credits
 [Nelson Brito](mailto:nbrito@sekure.org)

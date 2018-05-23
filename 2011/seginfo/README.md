@@ -1,6 +1,7 @@
 # Supplemental
 For supplementary material, please, refer to:
 * [pop](https://github.com/nbrito/research/tree/master/pop)
+* [recorded](https://www.youtube.com/watch?v=3A_s9bQwKFQ)
 
 # Credits
 [Nelson Brito](mailto:nbrito@sekure.org)
