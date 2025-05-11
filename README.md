@@ -15,6 +15,7 @@ For a complete list of talks, please, visit my [blog](https://fnstenv.blogspot.c
 * [2016](https://github.com/nbrito/talks/tree/master/2016)
 * [2017](https://github.com/nbrito/talks/tree/master/2017)
 * [2018](https://github.com/nbrito/talks/tree/master/2018)
+* [2025](https://github.com/nbrito/talks/tree/master/2018)
 
 # Credits
 [Nelson Brito](mailto:nbrito@prontonmail.com)
